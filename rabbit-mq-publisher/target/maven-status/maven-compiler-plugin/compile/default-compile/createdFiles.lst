@@ -1,0 +1,4 @@
+com/vamsi/producerapp/controller/Producer.class
+com/vamsi/producerapp/model/Employee.class
+com/vamsi/producerapp/config/MQConfig.class
+com/vamsi/producerapp/ProducerappApplication.class
