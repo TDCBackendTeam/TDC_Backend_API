@@ -1,7 +1,7 @@
 
 package com.vamsi.producerapp.controller;
 
-import com.vamsi.producerapp.config.MQConfig;
+//import com.vamsi.producerapp.config.MQConfig;
 import com.vamsi.producerapp.model.Employee;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,7 +21,7 @@ public class Producer {
     public String SaveEmployee(@RequestBody Employee employee) {
         employee.setEmployeeId(UUID.randomUUID().toString());
 
-        rabbitTemplate.convertAndSend(MQConfig.TOPICEXCHANGE, MQConfig.employee_route_key, employee);
+//        rabbitTemplate.convertAndSend(MQConfig.TOPICEXCHANGE, MQConfig.employee_route_key, employee);
         return "Employee Saving Success";
     }
 

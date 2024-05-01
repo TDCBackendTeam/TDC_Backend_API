@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TDC_Backend_API.iml" filepath="$PROJECT_DIR$/.idea/TDC_Backend_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq-consumer/consumerapp.iml" filepath="$PROJECT_DIR$/rabbit-mq-consumer/consumerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq-publisher/producerapp.iml" filepath="$PROJECT_DIR$/rabbit-mq-publisher/producerapp.iml" />
+    </modules>
+  </component>
+</project>
