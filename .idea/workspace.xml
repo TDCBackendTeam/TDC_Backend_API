@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d649c511-9284-4390-848f-c913cb2d545b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/config/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/controller/MessageJsonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/AddressDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/DesigDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/EmploymentDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/StaffEducationDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/StuffDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/publisher/RabbitMQJsonProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/publisher/RabbitMQProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/config/MQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/config/MQConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/controller/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/controller/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/ProducerappApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/ProducerappApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/config/MQConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/controller/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/controller/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-mq-publisher/target/classes/com/vamsi/producerapp/model/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
