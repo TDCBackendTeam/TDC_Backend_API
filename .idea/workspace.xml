@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d649c511-9284-4390-848f-c913cb2d545b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/controller/studentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/StudentAddressDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/contactDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/leadFolUpDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/studentDetailsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp/dto/studentDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +22,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -49,6 +64,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/TDC_Backend_API/rabbit-mq-publisher/src/main/java/com/vamsi/producerapp",
     "project.structure.last.edited": "Project",
